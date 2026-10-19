@@ -1,0 +1,12 @@
+{
+  "name": "hello-ai-coding",
+  "version": "1.0.0",
+  "description": "A simple Node.js web page displaying 'hello ai coding'",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["hello", "ai", "coding"],
+  "author": "",
+  "license": "MIT"
+}
